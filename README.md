@@ -10,8 +10,7 @@ Perform the following steps to use this template to create your own npm package.
   a. change **name**
   b. change **description**
   c. change **keywords**
-  d. change **repository.url**
-  e. remove the **repository** section - you'll recreate that below
+  d. remove the **repository** section - you'll recreate that below
 3. From the terminal, run `yarn install`
 4. Create git repository:
   a. from [github](https://github.com/), create a new repository and get the address -- the `<url>`
