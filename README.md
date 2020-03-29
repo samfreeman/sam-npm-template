@@ -25,4 +25,6 @@ Perform the following steps to use this template to create your own npm package.
   a. run `yarn build` -- make sure it succeeds
   b. run `yarn test` -- make sure all tests pass
   c. run `yarn cover` -- make sure all code is covered
-  d. run `yarn publish` and follow the steps
+  d. commit your changes
+  e. push your changes to master
+  f. run `yarn publish` and follow the steps
